@@ -9,7 +9,7 @@ Hi, My name is Omar, I'm from Syria and am a fullstack developer, I have been co
 
 # Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,tailwind,md,discord,git,github,html,css,mongodb,mysql,postgres,sqlite,sequelize,express,powershell,electron,boostrap,ps&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,tailwind,md,discord,git,github,html,css,mongodb,mysql,postgres,sqlite,sequelize,express,powershell,electron,ps,bash&theme=dark"
 </p>
  
  <details>
