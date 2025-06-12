@@ -22,7 +22,7 @@
 ### 🚀 A Little More About Me
 
 -   🌱 I’m currently learning **Penetration Testing**
--   📫 How to reach me: **[[Your Email or LinkedIn Here](https://www.linkedin.com/in/omar-daghestani/)]**
+-   📫 How to reach me: **[[Linked](https://www.linkedin.com/in/omar-daghestani/)]**
 -   ⚡ Fun fact: **When I'm not coding, I enjoy [playing video games!]!**
 
 ---
