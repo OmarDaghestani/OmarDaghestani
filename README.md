@@ -1,3 +1,8 @@
+<!-- 
+  This version includes the suggested tweaks.
+  The main change is adding a "Security" category to your tech stack
+  to reflect what you're currently learning. Great work on this!
+-->
 
 <div align="center">
   <img
@@ -21,9 +26,11 @@
 
 ### 🚀 A Little More About Me
 
--   🌱 I’m currently learning **Penetration Testing**
--   📫 How to reach me: **[[Linked](https://www.linkedin.com/in/omar-daghestani/)]**
--   ⚡ Fun fact: **When I'm not coding, I enjoy [playing video games!]!**
+-   🌱 I’m currently learning
+    **Penetration Testing with Kali Linux & BurpSuite.**
+-   📫 How to reach me:
+    **[LinkedIn](https://www.linkedin.com/in/omar-daghestani/)**
+-   ⚡ Fun fact: **When I'm not coding, I enjoy playing video games!**
 
 ---
 
@@ -32,7 +39,9 @@
 <p align="center">
   <!-- Frontend -->
   <strong>Frontend:</strong> &nbsp;
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind"
+  />
   <br />
   <!-- Backend -->
   <strong>Backend:</strong> &nbsp;
@@ -42,16 +51,22 @@
   <strong>Database:</strong> &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
   <br />
+  <!-- Security -->
+  <strong>Security:</strong> &nbsp;
+  <img src="https://skillicons.dev/icons?i=kali,wireshark" />
+  <br />
   <!-- Tools & DevOps -->
   <strong>Tools & DevOps:</strong> &nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,powershell,bash,discord,md,ps" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel,powershell,bash,discord,md,ps"
+  />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
+<!-- For better visual consistency, the stats section is also centered -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
   <a href="https://github.com/OmarDGreat">
     <img
       src="https://github-readme-stats.vercel.app/api?username=OmarDGreat&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20"
@@ -64,7 +79,7 @@
       alt="Omar's Top Languages"
     />
   </a>
-</p>
+</div>
 
 ---
 
