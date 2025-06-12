@@ -1,20 +1,75 @@
-<img align='left' src='./assets/logo.gif' width='25%' heigh="35%">
 
-# OmarDGreat
+<div align="center">
+  <img
+    src="./assets/logo.gif"
+    alt="Logo"
+    width="200px"
+    height="200px"
+  />
 
-Hi, My name is Omar, I'm from Syria and am a fullstack developer, I have been coding for almost 1 years and now I am starting my own projects.
+  <h3>Hi there, I'm Omar 👋</h3>
 
-![](https://komarev.com/ghpvc/?username=OmarDGreat&color=2062af&label=Profile+views)
+  <p>
+    I'm a passionate full-stack developer from Syria, crafting seamless and
+    robust digital experiences. My journey into code began in 2020, and since
+    then, I've been dedicated to building innovative solutions and
+    continuously expanding my skillset.
+  </p>
+</div>
 
+---
 
-# Skills
+### 🚀 A Little More About Me
+
+-   🌱 I’m currently learning **Penetration Testing**
+-   📫 How to reach me: **[[Your Email or LinkedIn Here](https://www.linkedin.com/in/omar-daghestani/)]**
+-   ⚡ Fun fact: **When I'm not coding, I enjoy [playing video games!]!**
+
+---
+
+### 💻 My Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,nodejs,nextjs,react,tailwind,md,discord,git,github,html,css,mongodb,mysql,postgres,sqlite,sequelize,express,powershell,electron,ps,bash&theme=dark"
+  <!-- Frontend -->
+  <strong>Frontend:</strong> &nbsp;
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
+  <br />
+  <!-- Backend -->
+  <strong>Backend:</strong> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,electron" />
+  <br />
+  <!-- Database -->
+  <strong>Database:</strong> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+  <br />
+  <!-- Tools & DevOps -->
+  <strong>Tools & DevOps:</strong> &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,powershell,bash,discord,md,ps" />
 </p>
- 
- <details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=OmarDGreat&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDGreat&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
-</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/OmarDGreat">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=OmarDGreat&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20"
+      alt="Omar's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/OmarDGreat">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDGreat&layout=compact&theme=github_dark&count_private=true&hide_border=true"
+      alt="Omar's Top Languages"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=OmarDGreat&color=2062af&label=Profile+views"
+  />
+</p>
