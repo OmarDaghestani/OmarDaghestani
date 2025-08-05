@@ -1,9 +1,3 @@
-<!-- 
-  This version includes the suggested tweaks.
-  The main change is adding a "Security" category to your tech stack
-  to reflect what you're currently learning. Great work on this!
--->
-
 <div align="center">
   <img
     src="./assets/logo.gif"
@@ -12,11 +6,11 @@
     height="200px"
   />
 
-  <h3>Hi there, I'm Omar 👋</h3>
+  <h3>Hello! I'm Omar 👋</h3>
 
   <p>
     I'm a passionate full-stack developer from Syria, crafting seamless and
-    robust digital experiences. My journey into code began in 2020, and since
+    robust digital experiences. My coding journey began in 2020, and since
     then, I've been dedicated to building innovative solutions and
     continuously expanding my skillset.
   </p>
@@ -27,7 +21,8 @@
 ### 🚀 A Little More About Me
 
 -   🌱 I’m currently learning
-    **Penetration Testing with Kali Linux & BurpSuite.**
+    **Penetration Testing with Kali Linux & BurpSuite** to enhance my
+    understanding of secure development practices.
 -   📫 How to reach me:
     **[LinkedIn](https://www.linkedin.com/in/omar-daghestani/)**
 -   ⚡ Fun fact: **When I'm not coding, I enjoy playing video games!**
