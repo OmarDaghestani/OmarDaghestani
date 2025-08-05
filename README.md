@@ -67,15 +67,15 @@
 <!-- For better visual consistency, the stats section is also centered -->
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/OmarDGreat">
+  <a href="https://github.com/OmarDaghestani">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=OmarDGreat&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20"
+      src="https://github-readme-stats.vercel.app/api?username=OmarDaghestani&theme=github_dark&show_icons=true&count_private=true&hide_border=true&line_height=20"
       alt="Omar's GitHub Stats"
     />
   </a>
-  <a href="https://github.com/OmarDGreat">
+  <a href="https://github.com/OmarDaghestani">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDGreat&layout=compact&theme=github_dark&count_private=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDaghestani&layout=compact&theme=github_dark&count_private=true&hide_border=true"
       alt="Omar's Top Languages"
     />
   </a>
@@ -85,6 +85,6 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=OmarDGreat&color=2062af&label=Profile+views"
+    src="https://komarev.com/ghpvc/?username=OmarDaghestani&color=2062af&label=Profile+views"
   />
 </p>
